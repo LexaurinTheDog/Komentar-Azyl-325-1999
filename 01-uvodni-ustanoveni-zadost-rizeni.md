@@ -523,6 +523,11 @@ Po propuštění z vyjmenovaných zařízení se žadatel musí dostavit do při
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [14 To 12/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9EFDC9623F44F465C1258C5A0036C6D7?openDocument) — 8. 2. 2024, kat. A
+  > „Doba, po kterou se na vyžádaného k vydání jinému než členskému státu Evropské unie hledí jako na žadatele o udělení mezinárodní ochrany, se podle § 101 odst. 6 písm. a) z. m. j. s. nezapočítává do nejvyšší přípustné doby trvání vydávací vazby ani poté, co bylo ustanovením § 3d odst. 3 písm. b) zákona č. 325/1999 Sb., o azylu, po novele provedené zákonem č. 173/2023 Sb., umožněno vydat vyžádaného v této době takovému státu"
+
 #### Právo setrvat na území (odst. 1)
 
 Žadatel je oprávněn setrvat na území po celou dobu, kdy má postavení žadatele (§ 2 odst. 1 písm. b)). Právo setrvat je výrazem zásady non-refoulement (čl. 33 odst. 1 Úmluvy o právním postavení uprchlíků) a umožňuje projednání žádosti. Neplatí pro žadatele, který podal **další opakovanou žádost** (§ 2 odst. 1 písm. g)). Právo setrvat nezakládá nárok na povolení k pobytu podle zákona o pobytu cizinců. Ministerstvo může setrvání omezit na část území nebo na přijímací středisko v tranzitním prostoru mezinárodního letiště, není-li žadateli povolen vstup na území.
@@ -1270,6 +1275,11 @@ Azyl za účelem sloučení rodiny je odvozen od azylu podle § 12 a náleží �
 > - c) vážné ohrožení života civilisty nebo jeho lidské důstojnosti z důvodu svévolného násilí v situaci mezinárodního nebo vnitřního ozbrojeného konfliktu.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [14 To 158/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/17BCBD8412F510D2C12586A800211CAC?openDocument) — 14. 1. 2020, kat. A
+  > „Udělení doplňkové ochrany podle § 14a zákona č. 325/1999 Sb., o azylu, ve znění pozdějších předpisů, z důvodu nebezpečí vážné újmy hrozící dané osobě v jejím domovském státě samo o sobě nebrání předání této osoby k trestnímu stíhání podle § 205 odst. 1 z. m. j. s. do jiného státu, než je tento domovský stát. O žádosti jiného členského státu Evropské unie, formálně obsažené v evropském zatýkacím rozkazu, je vykonávající stát povinen rozhodnout buď tak, že vyžádanou osobu nacházející se na jejím území předá, nebo z taxativně vypočtených důvodů rozhodne, že taková osoba se nepředává. Samotná skutečnost, že vyžádaná osoba v průběhu předávacího řízení projeví ochotu s orgány činnými v trestním řízení vyžadujícího státu komunikovat a za tím účelem si tam zvolí obhájce, neopravňuje soud České republiky rozhodnout, že se vyžádaná osoba do vyžadujícího státu podle § 205 odst. 2 z. m. j. s.…"
 
 #### Subsidiarita doplňkové ochrany (odst. 1)
 
